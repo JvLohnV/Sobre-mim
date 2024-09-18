@@ -1,0 +1,47 @@
+button {
+    display: block;
+    width: 160px;
+    height: 50px;
+    line-height: 40px;
+    padding: 10px;
+    margin: 20px;
+    background-color: #ffffff;
+    color: #000000;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial;
+    position: absolute;
+    right: 100px;
+    bottom: 10px;
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    height: 80vh;
+    background-color: #000000;
+    background-size: cover;
+    background-image: url("arquivo/fundo.jpg");
+}
+
+h1 {
+    color: #ffffff;
+    left: 100px;
+    top:275px;
+    font-size: 45px;
+    position: absolute;
+
+}
+
+#container-gojo {
+    align-items: center;
+    width: max-content;
+}
